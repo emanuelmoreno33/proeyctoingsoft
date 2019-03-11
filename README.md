@@ -1,1 +1,1 @@
-# proeyctoingsoft
+# proyecto de ingenieria de software
