@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B7C3F23-0FF0-46AF-B0E1-8E1CA3FA452D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar">
+      <HintPath>..\packages\CircularProgressBar.2.5.6403.13419\lib\net35-client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data" />
+    <Reference Include="Microsoft.VisualC" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Buscar.designer.cs">
+      <DependentUpon>Form_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Editar.Designer.cs">
+      <DependentUpon>Form_Editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="From_Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="From_Agregar.Designer.cs">
+      <DependentUpon>From_Agregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="From_Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="From_Inicio.Designer.cs">
+      <DependentUpon>From_Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="From_Generar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="From_Generar.Designer.cs">
+      <DependentUpon>From_Generar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Buscar.resx">
+      <DependentUpon>Form_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Editar.resx">
+      <DependentUpon>Form_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="From_Agregar.resx">
+      <DependentUpon>From_Agregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="From_Inicio.resx">
+      <DependentUpon>From_Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="From_Generar.resx">
+      <DependentUpon>From_Generar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home [#1391].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home [#1391]1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus [#1514].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus_circle [#1426].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close [#1511].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus [#1515].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multitasking [#1440].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close [#1538].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multitasking [#1490].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit [#1479].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fileboard [#1801].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\router_middle [#1114].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information [#1535].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoTNM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_ITT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header-sep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_right [#1507].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_pdf [#1754].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\pdf_crear\pdf_crear.csproj">
+      <Project>{93a0ba8e-c0d3-4cfc-81be-c3a548659642}</Project>
+      <Name>pdf_crear</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tape [#939].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\{807CA100-158A-4B71-BA22-312BFA87D8ED}.png.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoemanuel.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

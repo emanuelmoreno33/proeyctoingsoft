@@ -1,0 +1,48 @@
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\pdf_crear\bin\Debug\itextsharp.dll
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\pdf_crear.pdb
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\bin\Debug\itextsharp.xml
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csprojAssemblyReference.cache
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csproj.CoreCompileInputs.cache
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.csproj.CopyComplete
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.dll
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\pdf_crear\obj\Debug\pdf_crear.pdb

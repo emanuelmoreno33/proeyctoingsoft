@@ -1,0 +1,226 @@
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+c:\users\rock star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Rock Star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Rock Star\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rock Star\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Rock Star\Documents\Visual Studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Rock Star\Documents\Visual Studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Downloads\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Proyecto (1)\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.4-20180504T025534Z-001\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto 1.5\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Core i5\Desktop\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Maxcel Center\Downloads\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Proyecto 1.53\Proyecto 1.52\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+C:\Users\Maxcel Center\Desktop\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.dll
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.dll
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.dll
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\pdf_crear.pdb
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\CircularProgressBar.xml
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\WinFormAnimation.xml
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Froma.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Buscar.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Form_Editar.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Agregar.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Inicio.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.From_Generar.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Usuarios\Emanuel\Documentos\Proyecto 1.4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
